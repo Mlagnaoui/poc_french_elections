@@ -1,0 +1,6 @@
+install.packages(pdftools)
+install.packages(stringr)
+install.packages(shiny)
+install.packages(ggplot2)
+install.packages(ggmap)
+install.packages(mapproj)
